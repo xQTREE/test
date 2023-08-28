@@ -1,0 +1,5 @@
+{{#user}}
+Name: Agniva Bagchi
+Skills: HTML, CSS, JS, React.js,Python,C,JAVA
+Email: agniva10270@gmail.com
+{{/user}}
